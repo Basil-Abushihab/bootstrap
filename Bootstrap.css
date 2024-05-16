@@ -1,0 +1,32 @@
+#container{
+    margin-top: 50px;
+
+    height: 700px;
+    width: 70%;
+    background-image:linear-gradient(rgba(0,0,0,0.5 ),rgba(0,0,0,0.5)),url(./WarbatHeroSection.jpg);
+    color: white;
+    font-size: xx-large;
+}
+#Order{
+    position: relative;
+    left: 40%;
+}
+body{
+    scroll-behavior: smooth;
+    overflow-x: hidden;
+    scrollbar-width: 10px;
+}
+p{
+    position: relative;
+    left: 5%;
+}
+
+
+.hero-text{
+    position: relative;
+    top: 30%;
+    justify-content: center;
+    left: 20%;
+
+
+}
